@@ -1,1 +1,1 @@
-Homework of "Algorithm Analysis" course.
+Assignments of "Algorithm Analysis" course.
